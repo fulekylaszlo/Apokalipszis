@@ -22,5 +22,6 @@ public:
 
 int main() {
     Randomer randomer{0, 10};
+    std::cout << "jaja";
     std::cout << randomer() << "\n";
 }
